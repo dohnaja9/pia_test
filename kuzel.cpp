@@ -9,7 +9,7 @@ int main()
 {
 	double r;
 	double v;
-	double pi = 3.14;
+	double pi = 3.14159265359;
 	
 	cout << "Zadejte polomer r: ";
 	cin >> r;
